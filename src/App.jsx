@@ -25,7 +25,6 @@ function App() {
       <div className="bgr">
         <About />
         <Skills /> 
-        <Experience/>
         <Projects />
         <Certificates />
         <Routes>
